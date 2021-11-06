@@ -1,4 +1,4 @@
-# docker-laravel-postgres-nginx
+# Docker-laravel-postgres-nginx
 Simple docker-compose for Laravel, with postgresql, reddis, nginx and php-fpm
 # Pre-requisites
 * Docker running on the host machine.
